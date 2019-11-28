@@ -2,7 +2,7 @@
 
 Load huge number (over 100k) of images in lightning speed.
 
-Uesd a 3-level Skiplist to store images, placeholder1, placeholder2 in 3 different layers.
+Uesd a 3-level Skiplist to display images, placeholder1, placeholder2 in 3 different layers.
 
 ### Run the program
 
